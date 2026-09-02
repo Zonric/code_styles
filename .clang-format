@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 2
+TabWidth: 2
+---
+Language: Cpp
+BreakBeforeBraces: Attach
+ColumnLimit: 120
+IndentAccessModifiers: true
+PointerAlignment: Right
+ReferenceAlignment: Right
+SpaceBeforeParens: ControlStatements
+UseTab: ForIndentation
